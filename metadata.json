@@ -1,0 +1,7 @@
+{
+  "name": "Champs Bites - Artisanal Pizzeria",
+  "description": "Artisanal Pizzeria in Gujranwala featuring stone-baked pizzas, loaded mozzarella cheese, signature crown crust, zinger burgers, and instant WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
